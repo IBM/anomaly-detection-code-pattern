@@ -1,5 +1,5 @@
-The datasets used in the notebooks are:
----
+The datasets used in the notebooks are
+
 ## Univariate data
 
 ### Sample data
@@ -15,7 +15,8 @@ synthesis data
 ### Sample data
 synthesis data
 
-### Reference: 
+---
+### Reference
 
 Ahmad, S., Lavin, A., Purdy, S., & Agha, Z. (2017). Unsupervised real-time anomaly detection for streaming data. Neurocomputing, Available online 2 June 2017, ISSN 0925-2312, https://doi.org/10.1016/j.neucom.2017.04.070
 
