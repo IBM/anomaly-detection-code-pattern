@@ -2,3 +2,4 @@ pandas
 matplotlib
 numpy
 requests
+notebook
