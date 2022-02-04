@@ -1,10 +1,15 @@
 # anomaly-detection-code-pattern
 Sample Jupyter Notebooks for playing around with the IBM Anomaly Detection service to be made available on [IBM API Hub](https://developer.ibm.com/apis/catalog/ai4industry--anomaly-detection-product/).
 
-## Requirements
+## Requirements and Installation
 1. Python 3
 2. Credentials to access the API service (Please follow the [instructions](https://developer.ibm.com/apis/catalog/ai4industry--anomaly-detection-product/Getting%20Started))
-3. (Optional) Create a virtual environment
+3. Clone the repository
+```bash
+git clone https://github.com/IBM/anomaly-detection-code-pattern.git
+cd anomaly-detection-code-pattern/
+```
+4. (Optional) Create a virtual environment
 ```
 virtualenv ad_env
 source ad_env/bin/activate
