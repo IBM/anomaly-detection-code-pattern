@@ -4,11 +4,20 @@ Sample Jupyter Notebooks for playing around with the IBM Anomaly Detection servi
 ## Requirements
 1. Python 3
 2. Credentials to access the API service (Please follow the [instructions](https://developer.ibm.com/apis/catalog/ai4industry--anomaly-detection-product/Getting%20Started))
-3. Required Packages
+3. (Optional) Create a virtual environment
+```
+virtualenv ad_env
+source ad_env/bin/activate
+```
+5. Install required packages
   ```
   pip install -r requirements.txt
   ```
-
+6. Open Jupyter notebook in current directory
+```bash
+python -m ipykernel install --user --name=ad_env  # optional: add virtual environment to jupyter notebook
+jupyter notebook
+```
 ## Notebooks
 
 Here are the list of provided notebooks:
