@@ -1,0 +1,11 @@
+{
+    "connection": {
+        "endpoint_url": "---",
+        "access_key_id": "---",
+        "secret_access_key": "---"
+    },
+    "location": {
+        "bucket": "creditcardfraud",
+        "path": "credit_card_subset_mixturemodel_X.csv"
+    }
+} 
