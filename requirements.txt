@@ -4,3 +4,5 @@ numpy
 requests
 notebook
 ipykernel
+markupsafe==2.0.1
+
