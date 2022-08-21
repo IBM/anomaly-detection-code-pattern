@@ -33,3 +33,5 @@ Here are the list of provided notebooks:
 ## Additional Links
 1. API Service in [IBM API Hub](https://developer.ibm.com/apis/catalog/ai4industry--anomaly-detection-product/)
 2. API Service in [IBM Learning Path](https://developer.ibm.com/learningpaths/get-started-anomaly-detection-api/)
+
+## Additionall
