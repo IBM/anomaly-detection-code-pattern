@@ -29,6 +29,8 @@ Here are the list of provided notebooks:
 1. Univariate_AD_service_public_data.ipynb: Anomaly detection on univariate public data
 2. Univariate_AD_service_sample_data.ipynb: Anomaly detection on univariate sample data
 3. Multivariate_AD_service_sample_data.ipynb: Anomaly detection on multivariate sample data
+4. Regression-aware_AD_service_sample_data.ipynb
+5. MixtureModel-aware_AD_service_sample_data.ipynb
 
 ## Additional Links
 1. API Service in [IBM API Hub](https://developer.ibm.com/apis/catalog/ai4industry--anomaly-detection-product/)
