@@ -34,4 +34,8 @@ Here are the list of provided notebooks:
 1. API Service in [IBM API Hub](https://developer.ibm.com/apis/catalog/ai4industry--anomaly-detection-product/)
 2. API Service in [IBM Learning Path](https://developer.ibm.com/learningpaths/get-started-anomaly-detection-api/)
 
-## Additionall
+## Talk
+1. MLSys 2022 half day tutorial
+2. KDD 2022 3-hour tutorial
+3. ICDE 2022 tutorial
+4. DASFAA 2022 tutorial
