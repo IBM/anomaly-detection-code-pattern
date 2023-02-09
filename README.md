@@ -12,6 +12,7 @@ ___
 ## Anomaly Detection Service 
 - [IBM Developer API Hub](https://developer.ibm.com/apis/catalog/ai4industry--anomaly-detection-product/)
 
+- [UI](https://ad.dev-cluster-dal12-b3c-4x1-9732de67fcec6eaeab6586412035e56b-0000.us-south.containers.appdomain.cloud/)
 ___
 
 ## Example : Setting Local Juputer Environment
